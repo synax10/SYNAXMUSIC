@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "repository": "https://github.com/Ranavanshi/Prachiprachimusic",
     "success_url": "https://t.me/chatvneture_club",
     "env": {
         "API_ID": {
