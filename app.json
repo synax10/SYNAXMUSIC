@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/Ranavanshi/Prachiprachimusic",
-    "success_url": "https://t.me/chatvneture_club",
+    "success_url": "/welcome",
     "env": {
         "API_ID": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
