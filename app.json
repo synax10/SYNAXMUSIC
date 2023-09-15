@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/XdityaHalder/SankiMusic",
+    "repository": "https://github.com/Ranavanshi/Prachiprachimusic",
     "success_url": "https://t.me/chatvneture_club",
     "env": {
         "API_ID": {
@@ -38,7 +38,7 @@
         "OWNER_ID": {
             "description": "𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑼𝒔𝒆𝒓 𝑰𝑫 𝑶𝒇 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
             "required": true
-            "value": 1995154708
+            
         },
         "LOG_GROUP_ID": {
             "description": "𝑩𝒐𝒕 𝑳𝒐𝒈𝒈𝒆𝒓 𝑮𝒓𝒐𝒖𝒑 𝑰𝑫",
