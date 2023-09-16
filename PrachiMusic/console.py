@@ -1,7 +1,7 @@
 import logging
 from logging.handlers import RotatingFileHandler
 
-from PrachiMusic.utilities.config import LOG_FILE_NAME
+from config import LOG_FILE_NAME
 
 logging.basicConfig(
     level=logging.INFO,
