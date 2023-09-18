@@ -71,6 +71,9 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 BANNED_USERS = filters.user()
 adminlist = {}
+YTDOWNLOADER = 1
+LOG = 2
+LOG_FILE_NAME = "prachilogs.txt"
 lyrical = {}
 votemode = {}
 autoclean = []
