@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/Ranavanshi/Musicbot",
+    "repository": "https://github.com/Ranavanshi/Prachimusic",
     "success_url": "https://t.me/webnet_support_chats",
     "env": {
         "API_ID": {
