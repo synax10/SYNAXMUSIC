@@ -1,4 +1,4 @@
-# Powered By @THE_WEBNET_NETWORK
+# Powered By @synax_network
 
 from typing import Union, List
 from pyrogram import filters
