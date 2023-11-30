@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✮ Wᴇʙɴᴇᴛ Mᴀɴᴀɢᴇʀ ✮", url="https://t.me/Ranavanshi_divy_X_Management_bot"
+                text="✮ NETWORK ✮", url="https://t.me/synax_network"
             )
         ]
      ]
