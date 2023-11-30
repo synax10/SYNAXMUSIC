@@ -1,4 +1,4 @@
-# Powered By @THE_WEBNET_NETWORK
+# Powered By @synax_network
 #special thanks to @Aditya_halder
 import glob
 from os.path import dirname, isfile
